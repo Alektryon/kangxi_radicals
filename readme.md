@@ -1,4 +1,5 @@
 | No | Radical | Strokes | Meaning | Mandarin (Pinyin) | Cantonese (Jyutping) | Han-Viet |
+|----|---------|---------|---------|-------------------|----------------------|----------|
 | 1 | 一 | 1 | one | yī | jat1 | nhất |
 | 2 | 丨 | 1 | line | gǔn | jat1 | cổn |
 | 3 | 丶 | 1 | dot | zhǔ | zyu2 | chủ |
