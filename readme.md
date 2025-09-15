@@ -166,10 +166,10 @@
 | 164 | 酉 | 7 | wine | yǒu | jau5 | dậu |
 | 165 | 釆 | 7 | distinguish | biàn | bin6 | biện |
 | 166 | 里 | 7 | village | lǐ | leoi5 | lý |
-| 167 | 金 (釒) | 8 | gold | jīn | gam1 (釒) | kim |
-| 168 | 長 (镸) | 8 | long | cháng | coeng4 (镸) | trường/trưởng |
+| 167 | 金 (釒) | 8 | gold | jīn | gam1 | kim |
+| 168 | 長 (镸) | 8 | long | cháng | coeng4 | trường/trưởng |
 | 169 | 門 | 8 | gate | mén | mun4 | môn |
-| 170 | 阜 (⻖) | 8 | mound | fù | fau6 (⻖) | phụ |
+| 170 | 阜 (⻖) | 8 | mound | fù | fau6 | phụ |
 | 171 | 隶 | 8 | slave | lì | dai6 | lệ |
 | 172 | 隹 | 8 | short-tailed bird | zhuī | zeoi1 | chuy |
 | 173 | 雨 | 8 | rain | yǔ | jyu5 | vũ |
@@ -209,8 +209,9 @@
 | 207 | 鼓 | 13 | drum | gǔ | gu2 | cổ |
 | 208 | 鼠 | 13 | rat | shǔ | syu2 | thử |
 | 209 | 鼻 | 14 | nose | bí | bei6 | tị |
-| 210 | 齊 (斉) | 14 | even | qí | cai4 (cai4 ) | tề |
+| 210 | 齊 (斉) | 14 | even | qí | cai4 | tề |
 | 211 | 齒 | 15 | tooth | chǐ | ci2 | xỉ |
 | 212 | 龍 | 16 | dragon | lóng | lung4 | long |
 | 213 | 龜 | 16 | turtle | guī | gwai1 | quy |
 | 214 | 龠 | 17 | flute | yuè | joek6 | dược |
+
